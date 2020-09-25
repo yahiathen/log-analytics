@@ -1,5 +1,5 @@
 Ce reperotoire contient des analyses sur des données volumineuses qui sont en l'occurence des logs d'un serveur web, 
-mais avant de les analyser des transformations sont requises pour mettre en forme les données.
+mais avant de les analyser des transformations sont requises pour mettre en forme les données ce que nous allons découvrir durant ce projet.
 
 Mots clés: Python, Spark, PySpark, SQL, Parsers, Big Data, Statistiques déscriptives, Session   
 
