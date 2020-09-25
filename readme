@@ -1,4 +1,12 @@
-Architecture du projet:
+Ce reperotoire contient des analyses sur des données volumineuses qui sont en l'occurence des logs d'un serveur web, 
+mais avant de les analyser des transformations sont requises pour mettre en forme les données.
+
+Mots clés: Python, Spark, PySpark, SQL, Parsers, Big Data, Statistiques déscriptives, Session   
+
+
+
+
+Architecture du repertoire:
 	* Repertoire "data": Contient les logs.
 	* Repertoire "notebooks": Le notebook des analyses et visualisations des logs.
 	* Repertoire "output": Contient les figures de data visualisation
@@ -6,8 +14,8 @@ Architecture du projet:
     
 
 Les données:
-	* Mettre les logs dans le fichier acces.log
-	* Un fichier léger (acces_light.log) est crée pour valider les pipelines (utilisée juste à des fins de test)
+	* Mettre les logs dans le fichier acces.log (Exemple: http://www.almhuette-raith.at/apache-log/access.log)
+	* Un fichier "léger" (acces_light.log) est crée pour valider les pipelines.
 
 
 
