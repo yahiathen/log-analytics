@@ -1,0 +1,14 @@
+Architecture du projet:
+	* Repertoire "data": Contient les logs.
+	* Repertoire "notebooks": Le notebook des analyses et visualisations des logs.
+	* Repertoire "output": Contient les figures de data visualisation
+	* Un fichier requirements contenant les libs python utilisées.	
+    
+
+Les données:
+	* Mettre les logs dans le fichier acces.log
+	* Un fichier léger (acces_light.log) est crée pour valider les pipelines (utilisée juste à des fins de test)
+
+
+
+
